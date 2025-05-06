@@ -1979,3 +1979,5 @@ wwwroot\assets\scss\bootstrap\scss\mixins\_utilities.scss
 wwwroot\assets\scss\bootstrap\scss\mixins\_visually-hidden.scss
 wwwroot\assets\scss\bootstrap\scss\utilities\_api.scss
 wwwroot\assets\scss\bootstrap\scss\vendor\_rfs.scss
+wwwroot\Upload\PopularTeacher\AnarBalaca.jpeg
+wwwroot\Upload\PopularTeacher\RasulRustamli.jpeg

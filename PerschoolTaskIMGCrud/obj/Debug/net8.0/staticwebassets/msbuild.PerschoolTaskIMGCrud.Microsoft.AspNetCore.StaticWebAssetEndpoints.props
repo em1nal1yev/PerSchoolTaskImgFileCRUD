@@ -23772,5 +23772,29 @@
       <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-q7qALRgeI5fTOSiynBR8\u002Br2Pzr5vI\u002BxnZzmaZ7f187A="}]]]></EndpointProperties>
       <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"63220"},{"Name":"Content-Type","Value":"application/octet-stream"},{"Name":"ETag","Value":"\u0022q7qALRgeI5fTOSiynBR8\u002Br2Pzr5vI\u002BxnZzmaZ7f187A=\u0022"},{"Name":"Last-Modified","Value":"Sun, 09 May 2021 09:30:10 GMT"}]]]></ResponseHeaders>
     </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PerschoolTaskIMGCrud/Upload/PopularTeacher/AnarBalaca.5bf8ma2wl6.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacher\AnarBalaca.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"5bf8ma2wl6"},{"Name":"integrity","Value":"sha256-gV13ZpvCN8QSv1N5j9Bt/iwMNiafFhfzIojWa18mttw="},{"Name":"label","Value":"_content/PerschoolTaskIMGCrud/Upload/PopularTeacher/AnarBalaca.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8510"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022gV13ZpvCN8QSv1N5j9Bt/iwMNiafFhfzIojWa18mttw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 18:56:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PerschoolTaskIMGCrud/Upload/PopularTeacher/AnarBalaca.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacher\AnarBalaca.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-gV13ZpvCN8QSv1N5j9Bt/iwMNiafFhfzIojWa18mttw="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8510"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022gV13ZpvCN8QSv1N5j9Bt/iwMNiafFhfzIojWa18mttw=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 18:56:52 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PerschoolTaskIMGCrud/Upload/PopularTeacher/RasulRustamli.3ke1utrzdp.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacher\RasulRustamli.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3ke1utrzdp"},{"Name":"integrity","Value":"sha256-DR7v3QQooPjVhC8L2xF7GQwCaeMoFbesRuqeaQ61gB0="},{"Name":"label","Value":"_content/PerschoolTaskIMGCrud/Upload/PopularTeacher/RasulRustamli.jpeg"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"4815"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DR7v3QQooPjVhC8L2xF7GQwCaeMoFbesRuqeaQ61gB0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 18:57:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PerschoolTaskIMGCrud/Upload/PopularTeacher/RasulRustamli.jpeg">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacher\RasulRustamli.jpeg'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-DR7v3QQooPjVhC8L2xF7GQwCaeMoFbesRuqeaQ61gB0="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"4815"},{"Name":"Content-Type","Value":"image/jpeg"},{"Name":"ETag","Value":"\u0022DR7v3QQooPjVhC8L2xF7GQwCaeMoFbesRuqeaQ61gB0=\u0022"},{"Name":"Last-Modified","Value":"Tue, 06 May 2025 18:57:18 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
   </ItemGroup>
 </Project>

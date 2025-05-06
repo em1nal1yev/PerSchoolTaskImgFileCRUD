@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("PerschoolTaskIMGCrud")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8cbd446e9f00fa4057b874fc13fa8dec0ab81e0d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+4255f495709f22c1e27ae0eb657ec4ae657d8fd9")]
 [assembly: System.Reflection.AssemblyProductAttribute("PerschoolTaskIMGCrud")]
 [assembly: System.Reflection.AssemblyTitleAttribute("PerschoolTaskIMGCrud")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

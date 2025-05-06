@@ -7421,6 +7421,14 @@
       "PackagePath": "staticwebassets\\Admin\\vendor\\jquery\\jquery.slim.min.map"
     },
     {
+      "Id": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\wwwroot\\Upload\\PopularTeacher\\AnarBalaca.jpeg",
+      "PackagePath": "staticwebassets\\Upload\\PopularTeacher\\AnarBalaca.jpeg"
+    },
+    {
+      "Id": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\wwwroot\\Upload\\PopularTeacher\\RasulRustamli.jpeg",
+      "PackagePath": "staticwebassets\\Upload\\PopularTeacher\\RasulRustamli.jpeg"
+    },
+    {
       "Id": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\wwwroot\\assets\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\assets\\css\\bootstrap.min.css"
     },
