@@ -10,7 +10,7 @@ namespace PerschoolTaskIMGCrud.Models
         public string Designation { get; set; }
         public string? ImgUrl { get; set; }
         [NotMapped] //altindaki database getmesin seye yaziriq bunu biz. Migrationa dusmur yeni bu 
-        public IFormFile File { get; set; }
+        public IFormFile? File { get; set; }
 
     }
 }

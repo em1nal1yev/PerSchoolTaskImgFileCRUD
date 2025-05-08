@@ -35658,12 +35658,12 @@
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
       <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\assets\scss\bootstrap\scss\_variables.scss'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacher\AnarBalaca.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacher\d4b749c0-b7d5-4efc-a433-09c31c1be708AnarBalaca.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>PerschoolTaskIMGCrud</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/PerschoolTaskIMGCrud</BasePath>
-      <RelativePath>Upload/PopularTeacher/AnarBalaca.jpeg</RelativePath>
+      <RelativePath>Upload/PopularTeacher/d4b749c0-b7d5-4efc-a433-09c31c1be708AnarBalaca.jpeg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -35674,14 +35674,14 @@
       <Integrity>gV13ZpvCN8QSv1N5j9Bt/iwMNiafFhfzIojWa18mttw=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacher\AnarBalaca.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacher\d4b749c0-b7d5-4efc-a433-09c31c1be708AnarBalaca.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
-    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacher\RasulRustamli.jpeg'))">
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacher34bf9428-25c7-4597-8661-8e1c80065485RasulRustamli.jpeg'))">
       <SourceType>Package</SourceType>
       <SourceId>PerschoolTaskIMGCrud</SourceId>
       <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
       <BasePath>_content/PerschoolTaskIMGCrud</BasePath>
-      <RelativePath>Upload/PopularTeacher/RasulRustamli.jpeg</RelativePath>
+      <RelativePath>Upload/PopularTeacher34bf9428-25c7-4597-8661-8e1c80065485RasulRustamli.jpeg</RelativePath>
       <AssetKind>All</AssetKind>
       <AssetMode>All</AssetMode>
       <AssetRole>Primary</AssetRole>
@@ -35692,7 +35692,115 @@
       <Integrity>DR7v3QQooPjVhC8L2xF7GQwCaeMoFbesRuqeaQ61gB0=</Integrity>
       <CopyToOutputDirectory>Never</CopyToOutputDirectory>
       <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
-      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacher\RasulRustamli.jpeg'))</OriginalItemSpec>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacher34bf9428-25c7-4597-8661-8e1c80065485RasulRustamli.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacher650e0c85-2f53-4b2c-b97d-d41d03cb3655AnarBalaca.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PerschoolTaskIMGCrud</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PerschoolTaskIMGCrud</BasePath>
+      <RelativePath>Upload/PopularTeacher650e0c85-2f53-4b2c-b97d-d41d03cb3655AnarBalaca.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5bf8ma2wl6</Fingerprint>
+      <Integrity>gV13ZpvCN8QSv1N5j9Bt/iwMNiafFhfzIojWa18mttw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacher650e0c85-2f53-4b2c-b97d-d41d03cb3655AnarBalaca.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacherbaebec52-7ac0-4ec3-bd0b-24bf330922bcRasulRustamli.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PerschoolTaskIMGCrud</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PerschoolTaskIMGCrud</BasePath>
+      <RelativePath>Upload/PopularTeacherbaebec52-7ac0-4ec3-bd0b-24bf330922bcRasulRustamli.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>3ke1utrzdp</Fingerprint>
+      <Integrity>DR7v3QQooPjVhC8L2xF7GQwCaeMoFbesRuqeaQ61gB0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacherbaebec52-7ac0-4ec3-bd0b-24bf330922bcRasulRustamli.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacherd24c466d-8590-4565-ac15-aaa92e64c662RasulRustamli.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PerschoolTaskIMGCrud</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PerschoolTaskIMGCrud</BasePath>
+      <RelativePath>Upload/PopularTeacherd24c466d-8590-4565-ac15-aaa92e64c662RasulRustamli.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>3ke1utrzdp</Fingerprint>
+      <Integrity>DR7v3QQooPjVhC8L2xF7GQwCaeMoFbesRuqeaQ61gB0=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacherd24c466d-8590-4565-ac15-aaa92e64c662RasulRustamli.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacherd4b749c0-b7d5-4efc-a433-09c31c1be708AnarBalaca.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PerschoolTaskIMGCrud</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PerschoolTaskIMGCrud</BasePath>
+      <RelativePath>Upload/PopularTeacherd4b749c0-b7d5-4efc-a433-09c31c1be708AnarBalaca.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5bf8ma2wl6</Fingerprint>
+      <Integrity>gV13ZpvCN8QSv1N5j9Bt/iwMNiafFhfzIojWa18mttw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacherd4b749c0-b7d5-4efc-a433-09c31c1be708AnarBalaca.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacherd958b60c-7618-412b-bcc1-dfda3582d586AnarBalaca.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PerschoolTaskIMGCrud</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PerschoolTaskIMGCrud</BasePath>
+      <RelativePath>Upload/PopularTeacherd958b60c-7618-412b-bcc1-dfda3582d586AnarBalaca.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5bf8ma2wl6</Fingerprint>
+      <Integrity>gV13ZpvCN8QSv1N5j9Bt/iwMNiafFhfzIojWa18mttw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeacherd958b60c-7618-412b-bcc1-dfda3582d586AnarBalaca.jpeg'))</OriginalItemSpec>
+    </StaticWebAsset>
+    <StaticWebAsset Include="$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeachered0eb9b6-c1f7-417b-adec-368201c45071AnarBalaca.jpeg'))">
+      <SourceType>Package</SourceType>
+      <SourceId>PerschoolTaskIMGCrud</SourceId>
+      <ContentRoot>$(MSBuildThisFileDirectory)..\staticwebassets\</ContentRoot>
+      <BasePath>_content/PerschoolTaskIMGCrud</BasePath>
+      <RelativePath>Upload/PopularTeachered0eb9b6-c1f7-417b-adec-368201c45071AnarBalaca.jpeg</RelativePath>
+      <AssetKind>All</AssetKind>
+      <AssetMode>All</AssetMode>
+      <AssetRole>Primary</AssetRole>
+      <RelatedAsset></RelatedAsset>
+      <AssetTraitName></AssetTraitName>
+      <AssetTraitValue></AssetTraitValue>
+      <Fingerprint>5bf8ma2wl6</Fingerprint>
+      <Integrity>gV13ZpvCN8QSv1N5j9Bt/iwMNiafFhfzIojWa18mttw=</Integrity>
+      <CopyToOutputDirectory>Never</CopyToOutputDirectory>
+      <CopyToPublishDirectory>PreserveNewest</CopyToPublishDirectory>
+      <OriginalItemSpec>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\Upload\PopularTeachered0eb9b6-c1f7-417b-adec-368201c45071AnarBalaca.jpeg'))</OriginalItemSpec>
     </StaticWebAsset>
   </ItemGroup>
 </Project>

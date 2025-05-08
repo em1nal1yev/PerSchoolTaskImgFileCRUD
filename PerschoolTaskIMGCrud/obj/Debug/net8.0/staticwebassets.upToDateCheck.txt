@@ -1979,5 +1979,11 @@ wwwroot\assets\scss\bootstrap\scss\mixins\_utilities.scss
 wwwroot\assets\scss\bootstrap\scss\mixins\_visually-hidden.scss
 wwwroot\assets\scss\bootstrap\scss\utilities\_api.scss
 wwwroot\assets\scss\bootstrap\scss\vendor\_rfs.scss
-wwwroot\Upload\PopularTeacher\AnarBalaca.jpeg
-wwwroot\Upload\PopularTeacher\RasulRustamli.jpeg
+wwwroot\Upload\PopularTeacher\d4b749c0-b7d5-4efc-a433-09c31c1be708AnarBalaca.jpeg
+wwwroot\Upload\PopularTeacher34bf9428-25c7-4597-8661-8e1c80065485RasulRustamli.jpeg
+wwwroot\Upload\PopularTeacher650e0c85-2f53-4b2c-b97d-d41d03cb3655AnarBalaca.jpeg
+wwwroot\Upload\PopularTeacherbaebec52-7ac0-4ec3-bd0b-24bf330922bcRasulRustamli.jpeg
+wwwroot\Upload\PopularTeacherd24c466d-8590-4565-ac15-aaa92e64c662RasulRustamli.jpeg
+wwwroot\Upload\PopularTeacherd4b749c0-b7d5-4efc-a433-09c31c1be708AnarBalaca.jpeg
+wwwroot\Upload\PopularTeacherd958b60c-7618-412b-bcc1-dfda3582d586AnarBalaca.jpeg
+wwwroot\Upload\PopularTeachered0eb9b6-c1f7-417b-adec-368201c45071AnarBalaca.jpeg

@@ -7,20 +7,12 @@
       "RelativeMoniker": "D:0:0:{55C823C3-5935-4E63-8925-CA3DECC87F93}|PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud.csproj|solutionrelative:perschooltaskimgcrud\\areas\\admin\\controllers\\favoriteteachercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55C823C3-5935-4E63-8925-CA3DECC87F93}|PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud.csproj|c:\\users\\emin\\desktop\\backendtasks\\perschooltaskimgcrud\\perschooltaskimgcrud\\models\\popularteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{55C823C3-5935-4E63-8925-CA3DECC87F93}|PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud.csproj|solutionrelative:perschooltaskimgcrud\\models\\popularteacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{55C823C3-5935-4E63-8925-CA3DECC87F93}|PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud.csproj|c:\\users\\emin\\desktop\\backendtasks\\perschooltaskimgcrud\\perschooltaskimgcrud\\areas\\admin\\views\\favoriteteacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55C823C3-5935-4E63-8925-CA3DECC87F93}|PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud.csproj|solutionrelative:perschooltaskimgcrud\\areas\\admin\\views\\favoriteteacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{55C823C3-5935-4E63-8925-CA3DECC87F93}|PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud.csproj|c:\\users\\emin\\desktop\\backendtasks\\perschooltaskimgcrud\\perschooltaskimgcrud\\areas\\admin\\views\\favoriteteacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{55C823C3-5935-4E63-8925-CA3DECC87F93}|PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud.csproj|solutionrelative:perschooltaskimgcrud\\areas\\admin\\views\\favoriteteacher\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{55C823C3-5935-4E63-8925-CA3DECC87F93}|PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud.csproj|c:\\users\\emin\\desktop\\backendtasks\\perschooltaskimgcrud\\perschooltaskimgcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{55C823C3-5935-4E63-8925-CA3DECC87F93}|PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud.csproj|solutionrelative:perschooltaskimgcrud\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{55C823C3-5935-4E63-8925-CA3DECC87F93}|PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud.csproj|c:\\users\\emin\\desktop\\backendtasks\\perschooltaskimgcrud\\perschooltaskimgcrud\\areas\\admin\\views\\favoriteteacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{55C823C3-5935-4E63-8925-CA3DECC87F93}|PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud.csproj|solutionrelative:perschooltaskimgcrud\\areas\\admin\\views\\favoriteteacher\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,46 +22,8 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "FavoriteTeacherController.cs",
-              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\Areas\\Admin\\Controllers\\FavoriteTeacherController.cs",
-              "RelativeDocumentMoniker": "PerschoolTaskIMGCrud\\Areas\\Admin\\Controllers\\FavoriteTeacherController.cs",
-              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\Areas\\Admin\\Controllers\\FavoriteTeacherController.cs",
-              "RelativeToolTip": "PerschoolTaskIMGCrud\\Areas\\Admin\\Controllers\\FavoriteTeacherController.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAkwFMAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T17:47:02.142Z",
-              "IsPinned": true,
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\Views\\Home\\Index.cshtml",
-              "RelativeDocumentMoniker": "PerschoolTaskIMGCrud\\Views\\Home\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\Views\\Home\\Index.cshtml",
-              "RelativeToolTip": "PerschoolTaskIMGCrud\\Views\\Home\\Index.cshtml",
-              "ViewState": "AgIAANoBAAAAAAAAAAAAANoBAAAOAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T18:41:32.287Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Index.cshtml",
-              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\Areas\\Admin\\Views\\FavoriteTeacher\\Index.cshtml",
-              "RelativeDocumentMoniker": "PerschoolTaskIMGCrud\\Areas\\Admin\\Views\\FavoriteTeacher\\Index.cshtml",
-              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\Areas\\Admin\\Views\\FavoriteTeacher\\Index.cshtml",
-              "RelativeToolTip": "PerschoolTaskIMGCrud\\Areas\\Admin\\Views\\FavoriteTeacher\\Index.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAuAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T18:40:18.251Z"
-            },
             {
               "$type": "Document",
               "DocumentIndex": 2,
@@ -78,21 +32,35 @@
               "RelativeDocumentMoniker": "PerschoolTaskIMGCrud\\Areas\\Admin\\Views\\FavoriteTeacher\\Create.cshtml",
               "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\Areas\\Admin\\Views\\FavoriteTeacher\\Create.cshtml",
               "RelativeToolTip": "PerschoolTaskIMGCrud\\Areas\\Admin\\Views\\FavoriteTeacher\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAABLAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-05-06T18:37:45.736Z"
+              "WhenOpened": "2025-05-07T23:25:27.548Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "PopularTeacher.cs",
-              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\Models\\PopularTeacher.cs",
-              "RelativeDocumentMoniker": "PerschoolTaskIMGCrud\\Models\\PopularTeacher.cs",
-              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\Models\\PopularTeacher.cs",
-              "RelativeToolTip": "PerschoolTaskIMGCrud\\Models\\PopularTeacher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABjAAAAAAAAAA==",
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\Areas\\Admin\\Views\\FavoriteTeacher\\Index.cshtml",
+              "RelativeDocumentMoniker": "PerschoolTaskIMGCrud\\Areas\\Admin\\Views\\FavoriteTeacher\\Index.cshtml",
+              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\Areas\\Admin\\Views\\FavoriteTeacher\\Index.cshtml",
+              "RelativeToolTip": "PerschoolTaskIMGCrud\\Areas\\Admin\\Views\\FavoriteTeacher\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABoAAABvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-07T23:25:13.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FavoriteTeacherController.cs",
+              "DocumentMoniker": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\Areas\\Admin\\Controllers\\FavoriteTeacherController.cs",
+              "RelativeDocumentMoniker": "PerschoolTaskIMGCrud\\Areas\\Admin\\Controllers\\FavoriteTeacherController.cs",
+              "ToolTip": "C:\\Users\\Emin\\Desktop\\backEndTasks\\PerschoolTaskIMGCrud\\PerschoolTaskIMGCrud\\Areas\\Admin\\Controllers\\FavoriteTeacherController.cs",
+              "RelativeToolTip": "PerschoolTaskIMGCrud\\Areas\\Admin\\Controllers\\FavoriteTeacherController.cs",
+              "ViewState": "AgIAAE4AAAAAAAAAAAAowB4AAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-06T17:52:03.471Z",
+              "WhenOpened": "2025-05-07T23:25:07.334Z",
               "EditorCaption": ""
             }
           ]
